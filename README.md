@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ankit Panchal</h1>
 
 <p>
-Aspiring Data Scientist with a strong foundation in finance and credit risk analysis. I have 4+ years of experience in banking and housing finance, now transitioning into Data Science. I work on extracting insights from data, building machine learning models, and solving business problems using analytics.
+Aspiring Data Scientist with a strong foundation in finance and credit risk analysis. I have 3+ years of experience in banking and housing finance, now transitioning into Data Science. I work on extracting insights from data, building machine learning models, and solving business problems using analytics.
 </p>
 
 <hr>

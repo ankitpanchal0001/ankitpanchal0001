@@ -12,7 +12,7 @@ Aspiring Data Scientist with a strong foundation in finance and credit risk anal
 <b>Data Analysis:</b> Pandas, NumPy, Matplotlib, Seaborn  
 <b>Machine Learning:</b> Scikit-learn, Regression, Classification, Clustering  
 <b>Deep Learning:</b> TensorFlow / Keras (CNN Fundamentals)  
-<b>Visualization:</b> Excel, Power BI  
+<b>Visualization:</b> Excel, Matplotlib, Seaborn  
 <b>Domain Expertise:</b> Credit Risk, Financial Analysis, Banking Operations  
 
 <hr>

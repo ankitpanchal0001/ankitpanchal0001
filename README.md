@@ -22,6 +22,7 @@ Domain Expertise: Credit Risk, Financial Analysis, Banking Operations
 Exploratory Data Analysis on US Superstore dataset to uncover sales trends, profit drivers, and discount impact.
 
 Tech: Python, Pandas, Matplotlib, Seaborn
+
 Key Highlights:
 
 Time-series sales & profit trend analysis
@@ -37,6 +38,7 @@ Regional and category-level performance insights
 Machine Learning classification model to predict loan approval based on applicant financial and demographic data.
 
 Tech: Python, Scikit-learn, SVM, Pandas
+
 Key Highlights:
 
 Data preprocessing & feature engineering
@@ -49,9 +51,9 @@ Evaluation using confusion matrix & classification report
 
 🎓 Education
 
-Data Science Program - Masai School (IIT Guwahati Collaboration)
+Data Science Program — Masai School (IIT Guwahati Collaboration)
 
-B.Com - Kurukshetra University
+B.Com — Kurukshetra University
 
 📫 Connect with Me
 

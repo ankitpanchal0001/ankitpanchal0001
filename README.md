@@ -19,7 +19,7 @@ Aspiring Data Scientist with a strong foundation in finance and credit risk anal
 
 <h2> Featured Projects</h2>
 
-<h3>🔹 E-Commerce Sales & Profitability Analysis</h3>
+<h3>** E-Commerce Sales & Profitability Analysis</h3>
 
 Exploratory Data Analysis on US Superstore dataset to uncover sales trends, profit drivers, and discount impact.
 
@@ -36,7 +36,7 @@ Exploratory Data Analysis on US Superstore dataset to uncover sales trends, prof
 
 <hr>
 
-<h3>🔹 Loan Approval Prediction using SVM</h3>
+<h3>** Loan Approval Prediction using SVM</h3>
 
 Machine Learning classification model to predict loan approval based on applicant financial and demographic data.
 

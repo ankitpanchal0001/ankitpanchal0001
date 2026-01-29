@@ -1,62 +1,66 @@
-👋 Hi, I'm Ankit Panchal
+<h1>👋 Hi, I'm Ankit Panchal</h1>
 
+<p>
 Aspiring Data Scientist with a strong foundation in finance and credit risk analysis. I have 4+ years of experience in banking and housing finance, now transitioning into Data Science. I work on extracting insights from data, building machine learning models, and solving business problems using analytics.
+</p>
 
-🧠 Skills
+<hr>
 
-Programming: Python, SQL
+<h2>🧠 Skills</h2>
 
-Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+<b>Programming:</b> Python, SQL  
+<b>Data Analysis:</b> Pandas, NumPy, Matplotlib, Seaborn  
+<b>Machine Learning:</b> Scikit-learn, Regression, Classification, Clustering  
+<b>Deep Learning:</b> TensorFlow / Keras (CNN Fundamentals)  
+<b>Visualization:</b> Excel, Power BI  
+<b>Domain Expertise:</b> Credit Risk, Financial Analysis, Banking Operations  
 
-Machine Learning: Scikit-learn, Regression, Classification, Clustering
+<hr>
 
-Deep Learning: TensorFlow / Keras (CNN Fundamentals)
+<h2>📊 Projects</h2>
 
-Visualization: Excel, Power BI
-
-Domain Expertise: Credit Risk, Financial Analysis, Banking Operations
-
-📊 Projects
-🔹 E-Commerce Sales & Profitability Analysis
+<h3>🔹 E-Commerce Sales & Profitability Analysis</h3>
 
 Exploratory Data Analysis on US Superstore dataset to uncover sales trends, profit drivers, and discount impact.
 
-Tech: Python, Pandas, Matplotlib, Seaborn
+<b>Tech:</b> Python, Pandas, Matplotlib, Seaborn  
 
-Key Highlights:
+<b>Key Highlights:</b>
+<ul>
+<li>Time-series sales & profit trend analysis</li>
+<li>Discount vs profitability impact study</li>
+<li>Regional and category-level performance insights</li>
+</ul>
 
-Time-series sales & profit trend analysis
+<b>Repository:</b> EDA_Ecommerce_Sales_Analysis  
 
-Discount vs profitability impact study
+<hr>
 
-Regional and category-level performance insights
-
-👉 Repository: EDA_Ecommerce_Sales_Analysis
-
-🔹 Loan Approval Prediction using SVM
+<h3>🔹 Loan Approval Prediction using SVM</h3>
 
 Machine Learning classification model to predict loan approval based on applicant financial and demographic data.
 
-Tech: Python, Scikit-learn, SVM, Pandas
+<b>Tech:</b> Python, Scikit-learn, SVM, Pandas  
 
-Key Highlights:
+<b>Key Highlights:</b>
+<ul>
+<li>Data preprocessing & feature engineering</li>
+<li>RBF Kernel SVM model training</li>
+<li>Evaluation using confusion matrix & classification report</li>
+</ul>
 
-Data preprocessing & feature engineering
+<b>Repository:</b> Loan_Approval_Prediction_SVM  
 
-RBF Kernel SVM model training
+<hr>
 
-Evaluation using confusion matrix & classification report
+<h2>🎓 Education</h2>
 
-👉 Repository: Loan_Approval_Prediction_SVM
+Data Science Program — Masai School (IIT Guwahati Collaboration)  
+B.Com — Kurukshetra University  
 
-🎓 Education
+<hr>
 
-Data Science Program — Masai School (IIT Guwahati Collaboration)
+<h2>📫 Connect with Me</h2>
 
-B.Com — Kurukshetra University
-
-📫 Connect with Me
-
-LinkedIn: www.linkedin.com/in/ankitpanchal0001
-
+LinkedIn: www.linkedin.com/in/ankitpanchal0001  
 Email: ankitpanchal.ds@gmail.com

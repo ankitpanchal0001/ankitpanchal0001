@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Ankit Panchal</h1>
+<h1>Hi, I'm Ankit Panchal</h1>
 
 <p>
 Aspiring Data Scientist with a strong foundation in finance and credit risk analysis. I have 4+ years of experience in banking and housing finance, now transitioning into Data Science. I work on extracting insights from data, building machine learning models, and solving business problems using analytics.
@@ -6,7 +6,7 @@ Aspiring Data Scientist with a strong foundation in finance and credit risk anal
 
 <hr>
 
-<h2>🧠 Skills</h2>
+<h2>Technical Skills</h2>
 
 <b>Programming:</b> Python, SQL  
 <b>Data Analysis:</b> Pandas, NumPy, Matplotlib, Seaborn  
@@ -17,7 +17,7 @@ Aspiring Data Scientist with a strong foundation in finance and credit risk anal
 
 <hr>
 
-<h2>📊 Projects</h2>
+<h2> Featured Projects</h2>
 
 <h3>🔹 E-Commerce Sales & Profitability Analysis</h3>
 
@@ -53,14 +53,14 @@ Machine Learning classification model to predict loan approval based on applican
 
 <hr>
 
-<h2>🎓 Education</h2>
+<h2> Education</h2>
 
 Data Science Program — Masai School (IIT Guwahati Collaboration)  
 B.Com — Kurukshetra University  
 
 <hr>
 
-<h2>📫 Connect with Me</h2>
+<h2> Connect with Me</h2>
 
 LinkedIn: www.linkedin.com/in/ankitpanchal0001  
 Email: ankitpanchal.ds@gmail.com

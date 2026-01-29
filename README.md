@@ -49,9 +49,9 @@ Evaluation using confusion matrix & classification report
 
 🎓 Education
 
-Data Science Program — Masai School (IIT Guwahati Collaboration)
+Data Science Program - Masai School (IIT Guwahati Collaboration)
 
-B.Com — Kurukshetra University
+B.Com - Kurukshetra University
 
 📫 Connect with Me
 
